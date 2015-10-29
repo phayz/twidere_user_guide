@@ -1,4 +1,4 @@
-= Twidere
+= Twidere User Guide Outline
 
 == Target audience
 
