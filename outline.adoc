@@ -5,7 +5,7 @@
 - Existing Twitter users, up to "medium" level knowledge of Twitter
 - Twitter beginners
 
-== Aim of this document:
+== Aim of the User Guide
 
 To enable any Twitter user to use Twidere efficiently, when tweeting, re-tweeting and reading tweets.
 
@@ -28,7 +28,6 @@ To be titled "Getting Started with Twidere"
 	* Opening the menu
 	* Searching tweets
 - Question: is it possible to "jump" to the top of the Home tab?
-
 
 
 == Part 2 - Advanced Usage
