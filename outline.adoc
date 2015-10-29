@@ -1,0 +1,43 @@
+= Twidere
+
+== Target audience
+
+- Existing Twitter users, up to "medium" level knowledge of Twitter
+- Twitter beginners
+
+== Aim of this document:
+
+To enable any Twitter user to use Twidere efficiently, when tweeting, re-tweeting and reading tweets.
+
+
+=== Introduction
+- what is Twidere?
+- what does Twidere being open source mean for its users?
+
+
+== Part 1 - Twidere Basics
+
+To be titled "Getting Started with Twidere"
+
+* Getting started
+- Entering a Twitter API
+- Entering your Twitter name and password
+- Navigating Twidere's UI
+	* Panes - Home, Mentions, Messages, Trends
+	* Browsing (i.e. "scrolling") through tweets
+	* Opening the menu
+	* Searching tweets
+- Question: is it possible to "jump" to the top of the Home tab?
+
+
+
+== Part 2 - Advanced Usage
+
+To be titled "Getting more from Twidere"
+
+* Adding tabs (including a brief explanation)
+* Changing cards' appearance
+* Filtering tweets
+* Switching Twitter accounts
+* Backing up settings
+* Restoring settings
