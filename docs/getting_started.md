@@ -4,13 +4,16 @@ When you start Twidere for the first time, you can either *Sign In* or  *Registe
 
 ## Sign In
 
-Twidere needs access to your Twitter account to be able to act as a Twitter client. What Twidere is able to do with your Twitter account is limited, and listed on the "Browser Sign-In" screen.  It is important to read and understand the permissions that Twidere is requesting.
+1. Tap _SIGN IN_
 
-Access to your Twitter account requires your Twitter username (or email address) and password. Without these, Twidere can't work.
+Twidere needs your Twitter credentials to be able to send and receive tweets. The "Browser Sign-In" screen lists what Twidere is able to do with your Twitter account.  It is important to read and understand the permissions that Twidere is requesting, before moving on to the next step.
 
+2. Enter your Twitter username (or email address), and password, then tick the _Remember Me_ checkbox.
 
+3. Tap _Authorize App_.
 
-. Enter your Twitter username (or email address), and password
+You should next see the "Account dashboard" message. This is a reminder that you can see, and edit, your account's settings by swiping from the left edge of the screen.
+
 
 
 ## Register

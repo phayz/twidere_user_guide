@@ -1,4 +1,9 @@
 # Welcome
 
-Welcome to the Twidere User Guide. Follow the 'Getting Started' section to get tweeting. Once you are
-familiar with the basics, move on to 'Getting More From Twidere'.
+Welcome to the Twidere Guide. The aim here is to get you set up, ready to
+read and send tweets.
+
+Follow the instructions in the 'Getting Started' section, which covers the
+basics. When you are comfortable using Twidere, look over 'Getting More
+From Twidere'. There you will learn about advanced features which make
+using Twidere more efficient.
