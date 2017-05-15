@@ -2,4 +2,4 @@
 
 Twidere is a free and open source Twitter application for Android. This repository was created to accommodate the User Guide while it was under development.
 
-Contributions are welcome, including: pull requests, issues, constructive criticism.
+Contributions are welcome, including: pull requests, issues, constructive criticism...
